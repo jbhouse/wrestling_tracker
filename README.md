@@ -1,2 +1,24 @@
-# wrestling_tracker
-An API created to gather and organize placement information oh wrestlers at Illinois Highschool wrestling clubs to let people find the best club for them. Based on style, success, distance, and cost
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
